@@ -1,0 +1,9 @@
+body {
+    margin: 0;             /* Kenar boşluklarını kaldırır */
+    background: black;     /* Arka plan siyah */
+    overflow: hidden;      /* Kaydırma çubuğunu gizler */
+}
+
+canvas {
+    display: block;        /* Canvas’ı ekranda tam gösterir */
+}
